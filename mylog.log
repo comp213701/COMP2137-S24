@@ -1,0 +1,7 @@
+20240314-112108 cmdargs.sh **WARNING** Interface ens256 has no configured IPV4 address
+20240314-112222 cmdargs.sh **INFO** ens160: 172.16.218.145
+20240314-112222 cmdargs.sh **WARNING** Interface ens256 has no configured IPV4 address
+20240314-112222 cmdargs.sh **INFO** ens256: No address configured
+20240314-114227 cmdargs.sh **INFO** ens160: 172.16.218.145
+20240314-114227 cmdargs.sh **WARNING** Interface ens256 has no configured IPV4 address
+20240314-114227 cmdargs.sh **INFO** ens256: No address configured

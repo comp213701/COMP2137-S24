@@ -1,0 +1,10 @@
+function echoerror {
+	echo "**** Error: " "$*" "****"
+	echo
+}
+function logwarning {
+	echo "$(date +%Y%m%d-%H%M%S) $(basename $0) **WARNING** $1" >>mylog.log
+}
+function loginfo {
+	[ "$infologging" = "yes" ] && echo "$(date +%Y%m%d-%H%M%S) $(basename $0) **INFO** $1" >>mylog.log
+}

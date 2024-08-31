@@ -1,2 +1,1 @@
-# COMP2137
-## this is a repo for the class
+# COMP2137 W24
